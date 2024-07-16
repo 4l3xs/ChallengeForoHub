@@ -1,15 +1,19 @@
-# Challenge-LiterAlura
-Permite al usuario hacer buna busqueda profunda acerca de un libro, sus propiedades como autores, idioma y guardarlos en una lista.
+# Challenge-ForoHub
+El foro fue desarrollado en conjunto con SpringBoot, teniendo como finalidad el trabajar como una API REST con funcionalidades CRUD (Crear, Leer, Actualizar, Eliminar) ademas de contar con un JWT para la identificacion.
 
 ## Acerca del challenge 🔥
-El programa permite acceder a diferentes refrencias de libros gracias al uso de un API. Gracias tambien al uso de Json, Spring Data JPA, PostgreSQL Driver para el filtrado de las mismas.
+El programa permite gestionar tópicos de cualquier tipo gracias a las funcionalidades proporcionadas por CRUD.
 
 ### Libreria & servicios 📚
-* _[GSON](https://central.sonatype.com/artifact/com.google.code.gson/gson?smo=true)_
-* _[SPRING DATA JPA](https://spring.io/projects/spring-data-jpa)_
-* _[POSTGRESQL](https://www.postgresql.org/)_
-* _[API](https://gutendex.com/)_
 
+* _[SPRING WEB](https://spring.io/web-applications)_
+* _[SPRING SECURITY](https://spring.io/projects/spring-security)_
+* _[SPRING DATA JPA](https://spring.io/projects/spring-data-jpa)_
+* _[SPRING BOOT DEVTOOLS](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)_
+* _[MYSQL DRIVER](https://mvnrepository.com/artifact/mysql/mysql-connector-java)_
+* _[LOMBOK](https://projectlombok.org/setup/maven)_
+* _[FLYWAY MIGRATION](https://mvnrepository.com/artifact/org.flywaydb/flyway-core)_
+* _[VALIDATION](https://mvnrepository.com/artifact/javax.validation/validation-api)_
 
 ### Programa 👾
 * _NUEVO TOPICO_.
